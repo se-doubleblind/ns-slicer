@@ -5,13 +5,13 @@ We conducted several experiments to evaluate NS-Slicer. On complete code, it pre
 
 
 ## Dataset Links
-Here is the link for the dataset used in this paper: [link]()
+Here is the link for the dataset used in this paper: [link](https://drive.google.com/drive/folders/1qj0KWtqQS3E5stqjax-t_6XI04BvXPqf?usp=share_link)
 
 
 ## Pre-Trained Model/Tokenizer Asset Links
 Here are the links for NS-Slicer with: 
-1. GraphCodeBERT [link]()
-2. CodeBERT [link]()
+1. GraphCodeBERT [link](https://drive.google.com/drive/folders/1zq0NUt7WFXfu4Q5b3oLrHLq_iffv-r5M?usp=share_link)
+2. CodeBERT [link](https://drive.google.com/drive/folders/1wxyL6pRESee4WSFMuX0EmCEsRYlxSwvD?usp=share_link)
 
 ## Getting Started with NS-Slicer
 ### Run Instructions
